@@ -1,0 +1,50 @@
+{
+  "tl": {
+    "tokenize": {
+      "tl_ugnayan_tokenizer": {
+      }
+    },
+    "mwt": {
+      "tl_ugnayan_mwt_expander": {
+      }
+    },
+    "pos": {
+      "tl_ugnayan_tagger": {
+      }
+    },
+    "lemma": {
+      "tl_ugnayan_lemmatizer": {
+      }
+    },
+    "depparse": {
+      "tl_ugnayan_parser": {
+      }
+    },
+    "pretrain": {
+      "tl_ugnayan.pretrain": {
+      }
+    },
+    "default_processors": {
+      "tokenize": "tl_ugnayan_tokenizer",
+      "mwt": "tl_ugnayan_mwt_expander",
+      "pos": "tl_ugnayan_tagger",
+      "lemma": "tl_ugnayan_lemmatizer",
+      "depparse": "tl_ugnayan_parser"
+    },
+    "default_dependencies": {
+      "pos": [
+        {
+          "model": "pretrain",
+          "package": "tl_ugnayan.pretrain"
+        }
+      ],
+      "depparse": [
+        {
+          "model": "pretrain",
+          "package": "tl_ugnayan.pretrain"
+        }
+      ]
+    },
+    "lang_name": "Tagalog"
+  }
+}
