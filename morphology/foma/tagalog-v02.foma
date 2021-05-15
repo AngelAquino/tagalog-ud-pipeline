@@ -1,0 +1,58 @@
+### tagalog-v02.foma ###
+
+read lexc tagalog-v02.lexc
+define Lexicon ;
+
+# Vowels
+define V [ a | e | i | o | u ] ;
+
+# Consonants
+define C [ b | c | d | f | g | h | j | k | l | m | n | p | q | r | s | t | v | w | x | y | z | %'] ;
+
+
+# Reduplication: first syllable is duplicated in imperfective and prospective verbs
+define RedupRightBound  [..] -> %> || .#. (C) V _ ?* %^ d u p ?* ;
+define RedupLeftBound   [..] -> %< || .#. _ (C) V %> ?* %^ d u p ?* ;
+define RedupAddCV       [..] -> %< C V %> || .#. _ %< C V %> ?* %^ d u p ?* ;
+define RedupAddV        [..] -> %< V %> || .#. _ %< V %> ?* %^ d u p ?* ;
+define RedupOperation   RedupRightBound .o.
+                        RedupLeftBound  .o.
+                        RedupAddCV      .o.
+                        RedupAddV       ;
+
+define RedupFilter      _eq(Lexicon .o. RedupOperation, %<, %>) ;
+define RedupClean       %< | %> | %^ d u p -> 0 ;
+define Reduplication    RedupFilter     .o.
+                        RedupClean      ;
+
+
+# Affixation: voiced verbs receive corresponding affix
+define AffixActiveUm        [..] -> %< u m %> || .#. (C) _ V  ?* %^ u m ?* ;
+define AffixActiveUmPsp     %< u m %> -> 0 || ?* _ ?* %^ p s p ?* ;
+
+define AffixActiveNag       [..] -> %< n a g %> || .#. _ ?* %^ n a g ?* ;
+define AffixActiveNagV      [..] -> %- || .#. %< n a g _ %> V ?* ;
+define AffixActiveMag       n -> m || .#. %< _ a g ?* %^ p s p ?* ;
+
+define AffixPassiveIn       [..] -> %< i n %> || .#. (C) _ V  ?* %^ i n ?* ;
+define AffixPassiveInPsp1   %< i n %> -> 0 || ?* _ ?* %^ p s p ?* ;
+define AffixPassiveInPsp2   [..] -> %< i n %> || ?* _ (%^ ?*) %^ i n %^ p s p ?* ;
+define AffixPassiveInOU     o -> u || ?* _ (C) %< i n %> ?* ;
+define AffixPassiveHin      [..] -> h || .#. ?+ V %< _ i n %> ?* ;
+
+define AffixClean           %< | %> | %^ u m | %^ i n | %^ n a g | %^ p s p -> 0 ;
+
+define Affixation       AffixActiveUm       .o.
+                        AffixActiveUmPsp    .o.
+                        AffixActiveNag      .o.
+                        AffixActiveNagV     .o.
+                        AffixActiveMag      .o.
+                        AffixPassiveIn      .o.
+                        AffixPassiveInPsp1  .o.
+                        AffixPassiveInPsp2  .o.
+                        AffixPassiveInOU    .o.
+                        AffixPassiveHin     .o.
+                        AffixClean          ;
+
+
+regex Reduplication .o. Affixation;
