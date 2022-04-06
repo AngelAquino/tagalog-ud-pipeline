@@ -1,0 +1,1560 @@
+# newdoc_id = deped-lrmds_11820
+# sent_id = deped-lrmds_11820_0001
+# text = "Tay, pwede ba akong sumama sa pasada ninyo?" tanong ko kay Tatay.
+# text_en = "Dad, can I come along on your trip?" I asked Dad.
+1	"	"	PUNCT	_	_	8	punct	_	SpaceAfter=No
+2	Tay	Tay	PROPN	_	_	8	vocative	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	8	punct	_	_
+4	pwede	pwede	ADJ	_	_	8	advmod	_	_
+5	ba	ba	PART	_	_	8	mark	_	_
+6-7	akong	_	_	_	_	_	_	_	_
+6	ako	ako	PRON	_	_	8	nsubj	_	_
+7	-ng	na	PART	_	_	4	mark	_	_
+8	sumama	sama	VERB	_	Voice=Act|Aspect=Perf	0	root	_	_
+9	sa	sa	ADP	_	_	10	case	_	_
+10	pasada	pasada	NOUN	_	_	8	obl	_	_
+11	ninyo	inyo	PRON	_	_	10	nmod	_	SpaceAfter=No
+12	?	?	PUNCT	_	_	8	punct	_	SpaceAfter=No
+13	"	"	PUNCT	_	_	8	punct	_	_
+14	tanong	tanong	VERB	_	_	8	parataxis	_	_
+15	ko	ako	ADP	_	_	14	obj	_	_
+16	kay	kay	ADP	_	_	17	case	_	_
+17	Tatay	Tatay	PROPN	_	_	14	obl	_	SpaceAfter=No
+18	.	.	PUNCT	_	_	14	punct	_	_
+
+# sent_id = deped-lrmds_11820_0002
+# text = "Sabado naman ngayon e."
+# text_en = "Today is Saturday, after all."
+1	"	"	PUNCT	_	_	2	punct	_	SpaceAfter=No
+2	Sabado	Sabado	PROPN	_	_	0	root	_	_
+3	naman	naman	ADV	_	_	2	advmod	_	_
+4	ngayon	ngayon	NOUN	_	_	2	nmod	_	_
+5	e	e	PART	_	_	2	discourse	_	SpaceAfter=No
+6	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
+7	"	"	PUNCT	_	_	2	punct	_	_
+
+# sent_id = deped-lrmds_11820_0003
+# text = Sandaling nag-isip si Tatay bago niya sinabing, "Sige ba, anak!"
+# text_en = Dad thought for a moment before saying, "Sure, kid!"
+1-2	Sandaling	_	_	_	_	_	_	_	_
+1	Sandali	sandali	ADV	_	_	3	advmod	_	_
+2	-ng	na	PART	_	_	1	mark	_	_
+3	nag-isip	isip	VERB	_	Voice=Act|Aspect=Perf	0	root	_	_
+4	si	si	ADP	_	_	5	case	_	_
+5	Tatay	Tatay	PROPN	_	_	3	nsubj	_	_
+6	bago	bago	SCONJ	_	_	8	mark	_	_
+7	niya	siya	PRON	_	_	8	obj	_	_
+8-9	sinabing	_	_	_	_	_	_	_	SpaceAfter=No
+8	sinabi	sabi	VERB	_	Voice=Pass|Aspect=Perf	3	advcl	_	_
+9	-ng	na	PART	_	_	8	mark	_	_
+10	,	,	PUNCT	_	_	12	punct	_	_
+11	"	"	PUNCT	_	_	12	punct	_	SpaceAfter=No
+12	Sige	sige	INTJ	_	_	8	parataxis	_	_
+13	ba	ba	PART	_	_	12	discourse	_	SpaceAfter=No
+14	,	,	PUNCT	_	_	15	punct	_	_
+15	anak	anak	NOUN	_	_	12	vocative	_	SpaceAfter=No
+16	!	!	PUNCT	_	_	12	punct	_	SpaceAfter=No
+17	"	"	PUNCT	_	_	12	punct	_	_
+
+# sent_id = deped-lrmds_11820_0004
+# text = Umakyat ako sa jeep ni Tatay at umupo sa tabi niya.
+# text_en = I went up Dad's jeep and sat at his side.
+1	Umakyat	akyat	VERB	_	Voice=Act|Aspect=Perf	0	root	_	_
+2	ako	ako	PRON	_	_	1	nsubj	_	_
+3	sa	sa	ADP	_	_	4	case	_	_
+4	jeep	jeep	NOUN	_	_	1	obl	_	_
+5	ni	ni	ADP	_	_	6	case	_	_
+6	Tatay	Tatay	PROPN	_	_	4	nmod	_	_
+7	at	at	CCONJ	_	_	8	cc	_	_
+8	umupo	upo	VERB	_	Voice=Act|Aspect=Perf	1	conj	_	_
+9	sa	sa	ADP	_	_	10	case	_	_
+10	tabi	tabi	NOUN	_	_	8	obl	_	_
+11	niya	siya	PRON	_	_	10	nmod	_	SpaceAfter=No
+12	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = deped-lrmds_11820_0005
+# text = At doon nagsimula ang isang kakaibang araw para sa akin.
+# text_en = And that was the start of a strange day for me.
+1	At	at	CCONJ	_	_	3	cc	_	_
+2	doon	doon	ADV	_	_	3	advmod	_	_
+3	nagsimula	simula	VERB	_	Voice=Act|Aspect=Perf	0	root	_	_
+4	ang	ang	ADP	_	_	9	case	_	_
+5-6	isang	_	_	_	_	_	_	_	_
+5	isa	isa	NUM	_	_	9	nummod	_	_
+6	-ng	na	PART	_	_	5	mark	_	_
+7-8	kakaibang	_	_	_	_	_	_	_	_
+7	kakaiba	kakaiba	ADJ	_	_	9	amod	_	_
+8	-ng	na	PART	_	_	7	mark	_	_
+9	araw	araw	NOUN	_	_	3	nsubj	_	_
+10	para	para	ADP	_	_	12	case	_	_
+11	sa	sa	ADP	_	_	10	fixed	_	_
+12	akin	akin	PRON	_	_	9	nmod	_	SpaceAfter=No
+13	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = deped-lrmds_11820_0006
+# text = Drayber kasi ng jeepney ang tatay ko.
+# text_en = You see, my dad is a jeepney driver.
+1	Drayber	drayber	NOUN	_	_	0	root	_	_
+2	kasi	kasi	SCONJ	_	_	1	mark	_	_
+3	ng	ng	ADP	_	_	4	case	_	_
+4	jeepney	jeepney	NOUN	_	_	1	nmod	_	_
+5	ang	ang	ADP	_	_	6	case	_	_
+6	tatay	tatay	NOUN	_	_	1	nsubj	_	_
+7	ko	ko	PRON	_	_	6	nmod	_	SpaceAfter=No
+8	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = deped-lrmds_11820_0007
+# text = At ngayong araw ay kasama niya akong pumasada!
+# text_en = And today I get to join him on his trip!
+1	At	at	CCONJ	_	_	6	cc	_	_
+2-3	ngayong	_	_	_	_	_	_	_	_
+2	ngayon	ngayon	ADJ	_	_	4	amod	_	_
+3	-ng	na	PART	_	_	2	mark	_	_
+4	araw	araw	NOUN	_	_	6	nmod	_	_
+5	ay	ay	PART	_	_	4	mark	_	_
+6	kasama	kasama	NOUN	_	_	0	root	_	_
+7	niya	siya	PRON	_	_	6	obj	_	_
+8-9	akong	_	_	_	_	_	_	_	_
+8	ako	ako	PRON	_	_	6	nsubj	_	_
+9	-ng	na	PART	_	_	10	mark	_	_
+10	pumasada	pasada	VERB	_	Voice=Act|Aspect=Perf	6	acl	_	SpaceAfter=No
+11	!	!	PUNCT	_	_	6	punct	_	_
+
+# sent_id = deped-lrmds_11820_0008
+# text = Tuwing sumasama ako sa pasada, ako ang opisyal na tagakolekta ng bayad.
+# text_en = Whenever I come along on a trip, I serve as the official fare collector.
+1	Tuwing	tuwi	SCONJ	_	_	2	mark	_	_
+2	sumasama	sama	VERB	_	Voice=Act|Aspect=Imp	7	advcl	_	_
+3	ako	ako	PRON	_	_	2	nsubj	_	_
+4	sa	sa	ADP	_	_	5	case	_	_
+5	pasada	pasada	ADJ	_	_	2	obl	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	2	punct	_	_
+7	ako	ako	PRON	_	_	0	root	_	_
+8	ang	ang	ADP	_	_	11	case	_	_
+9	opisyal	opisyal	ADJ	_	_	11	amod	_	_
+10	na	na	PART	_	_	9	mark	_	_
+11	tagakolekta	kolekta	NOUN	_	_	7	nsubj	_	_
+12	ng	ng	ADP	_	_	13	case	_	_
+13	bayad	bayad	NOUN	_	_	11	nmod	_	SpaceAfter=No
+14	.	.	PUNCT	_	_	7	punct	_	_
+
+# sent_id = deped-lrmds_11820_0009
+# text = Iba't ibang tao ang sumasakay sa jeepney ni Tatay.
+# text_en = Different people are boarding Dad's jeepney.
+1	Iba	iba	ADJ	_	_	5	amod	_	SpaceAfter=No
+2	't	at	CCONJ	_	_	1	cc	_	_
+3-4	ibang	_	_	_	_	_	_	_	_
+3	iba	iba	ADJ	_	_	1	conj	_	_
+4	-ng	na	PART	_	_	1	mark	_	_
+5	tao	tao	NOUN	_	_	0	root	_	_
+6	ang	ang	ADP	_	_	7	case	_	_
+7	sumasakay	sakay	VERB	_	Voice=Act|Aspect=Imp	5	nsubj	_	_
+8	sa	sa	ADP	_	_	9	case	_	_
+9	jeepney	jeepney	NOUN	_	_	7	obl	_	_
+10	ni	ni	ADP	_	_	11	case	_	_
+11	Tatay	Tatay	PROPN	_	_	9	nmod	_	SpaceAfter=No
+12	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = deped-lrmds_11820_0010
+# text = May mga estudyanteng papasok ng eskuwela.
+# text_en = There are children on their way to school.
+1	May	may	VERB	_	_	0	root	_	_
+2	mga	mga	DET	_	_	3	det	_	_
+3-4	estudyanteng	_	_	_	_	_	_	_	_
+3	estudyante	estudyante	NOUN	_	_	1	nsubj	_	_
+4	-ng	na	PART	_	_	5	mark	_	_
+5	papasok	pasok	VERB	_	Voice=Act|Aspect=Imp	3	acl	_	_
+6	ng	ng	ADP	_	_	7	case	_	_
+7	eskuwela	eskuwela	NOUN	_	_	5	obl	_	SpaceAfter=No
+8	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = deped-lrmds_11820_0011
+# text = Nakasuot sila ng uniporme at maraming dalang libro.
+# text_en = They're wearing uniforms and are bringing a lot of books.
+1	Nakasuot	suot	VERB	_	Voice=Act|Aspect=Perf	0	root	_	_
+2	sila	sila	PRON	_	_	1	nsubj	_	_
+3	ng	ng	ADP	_	_	4	case	_	_
+4	uniporme	uniporme	NOUN	_	_	1	obj	_	_
+5	at	at	CCONJ	_	_	8	cc	_	_
+6-7	maraming	_	_	_	_	_	_	_	_
+6	marami	marami	DET	_	_	8	det	_	_
+7	-ng	na	PART	_	_	6	mark	_	_
+8-9	dalang	_	_	_	_	_	_	_	_
+8	dala	dala	NOUN	_	_	1	conj	_	_
+9	-ng	na	PART	_	_	10	mark	_	_
+10	libro	libro	NOUN	_	_	8	nmod	_	SpaceAfter=No
+11	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = deped-lrmds_11820_0012
+# text = May aleng mamamalengke na may dalang bayong.
+# text_en = There's a woman going to to the market who's bringing a woven bag.
+1	May	may	VERB	_	_	0	root	_	_
+2-3	aleng	_	_	_	_	_	_	_	_
+2	ale	ale	NOUN	_	_	1	obj	_	_
+3	-ng	na	PART	_	_	4	mark	_	_
+4	mamamalengke	palengke	VERB	_	Voice=Act|Aspect=Prosp	2	acl	_	_
+5	na	na	PART	_	_	6	mark	_	_
+6	may	may	VERB	_	_	2	acl	_	_
+7-8	dalang	_	_	_	_	_	_	_	_
+7	dala	dala	VERB	_	_	9	acl	_	_
+8	-ng	na	PART	_	_	7	mark	_	_
+9	bayong	bayong	NOUN	_	_	6	obj	_	SpaceAfter=No
+10	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = deped-lrmds_11820_0013
+# text = May nanay na may kasamang anak.
+# text_en = There's a mother with a child.
+1	May	may	VERB	_	_	0	root	_	_
+2	nanay	nanay	NOUN	_	_	1	obj	_	_
+3	na	na	PART	_	_	4	mark	_	_
+4	may	may	VERB	_	_	2	acl	_	_
+5-6	kasamang	_	_	_	_	_	_	_	_
+5	kasama	kasama	NOUN	_	_	7	nmod	_	_
+6	-ng	na	PART	_	_	5	mark	_	_
+7	anak	anak	NOUN	_	_	4	obj	_	SpaceAfter=No
+8	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = deped-lrmds_11820_0014
+# text = Pero may isang taong sumakay na bukod-tangi.
+# text_en = But there's one passenger who stood out.
+1	Pero	pero	CCONJ	_	_	2	cc	_	_
+2	may	may	VERB	_	_	0	root	_	_
+3-4	isang	_	_	_	_	_	_	_	_
+3	isa	isa	NUM	_	_	5	nummod	_	_
+4	-ng	na	PART	_	_	3	mark	_	_
+5-6	taong	_	_	_	_	_	_	_	_
+5	tao	tao	NOUN	_	_	2	obj	_	_
+6	-ng	na	PART	_	_	7	mark	_	_
+7	sumakay	sakay	VERB	_	Voice=Act|Aspect=Perf	5	acl	_	_
+8	na	na	PART	_	_	9	mark	_	_
+9	bukod	bukod	ADJ	_	_	5	amod	_	SpaceAfter=No
+10	-	-	PUNCT	_	_	11	punct	_	SpaceAfter=No
+11	tangi	tangi	ADJ	_	_	9	compound	_	SpaceAfter=No
+12	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = deped-lrmds_11820_0015
+# text = Ang suot niya'y makulay na kamiseta at pantalon na sobrang luwang sa kaniya.
+# text_en = He wore a colorful shirt and pants that were much too loose for him.
+1	Ang	ang	ADP	_	_	2	case	_	_
+2	suot	suot	NOUN	_	_	7	nsubj	_	_
+3	niya	siya	PRON	_	_	2	nmod	_	SpaceAfter=No
+4	'y	ay	PART	_	_	2	mark	_	_
+5	makulay	makulay	ADJ	_	_	7	amod	_	_
+6	na	na	PART	_	_	5	mark	_	_
+7	kamiseta	kamiseta	NOUN	_	_	0	root	_	_
+8	at	at	CCONJ	_	_	9	cc	_	_
+9	pantalon	pantalon	NOUN	_	_	7	conj	_	_
+10	na	na	PART	_	_	12	mark	_	_
+11	sobrang	sobra	ADV	_	_	12	advmod	_	_
+12	luwang	maluwang	ADJ	_	_	9	amod	_	_
+13	sa	sa	ADP	_	_	14	case	_	_
+14	kaniya	siya	PRON	_	_	12	obl	_	SpaceAfter=No
+15	.	.	PUNCT	_	_	7	punct	_	_
+
+# sent_id = deped-lrmds_11820_0016
+# text = Napakalaki ng sapatos niyang pula!
+# text_en = His red shoes were huge!
+1	Napakalaki	malaki	ADJ	_	_	0	root	_	_
+2	ng	ng	ADP	_	_	3	case	_	_
+3	sapatos	sapatos	NOUN	_	_	1	nsubj	_	_
+4-5	niyang	_	_	_	_	_	_	_	_
+4	niya	siya	PRON	_	_	3	nmod	_	_
+5	-ng	na	PART	_	_	6	mark	_	_
+6	pula	pula	ADJ	_	_	3	amod	_	SpaceAfter=No
+7	!	!	PUNCT	_	_	1	punct	_	_
+
+# sent_id = deped-lrmds_11820_0017
+# text = Pula rin ang ilong niya.
+# text_en = His nose was also red.
+1	Pula	pula	ADJ	_	_	0	root	_	_
+2	rin	din	ADV	_	_	1	advmod	_	_
+3	ang	ang	ADP	_	_	4	case	_	_
+4	ilong	ilong	NOUN	_	_	1	nsubj	_	_
+5	niya	siya	PRON	_	_	4	nmod	_	SpaceAfter=No
+6	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = deped-lrmds_11820_0018
+# text = Puting-puti ang mukha niya at kulay asul ang kulot niyang buhok.
+# text_en = His face was all white and his curly hair was colored blue.
+1-2	Puting	_	_	_	_	_	_	_	SpaceAfter=No
+1	Puti	puti	ADJ	_	_	4	amod	_	_
+2	-ng	na	PART	_	_	1	mark	_	_
+3	-	-	PUNCT	_	_	1	punct	_	SpaceAfter=No
+4	puti	puti	ADJ	_	_	0	root	_	_
+5	ang	ang	ADP	_	_	6	case	_	_
+6	mukha	mukha	NOUN	_	_	4	nsubj	_	_
+7	niya	siya	PRON	_	_	6	nmod	_	_
+8	at	at	CCONJ	_	_	9	cc	_	_
+9	kulay	kulay	NOUN	_	_	4	conj	_	_
+10	asul	asul	ADJ	_	_	9	amod	_	_
+11	ang	ang	ADP	_	_	15	case	_	_
+12	kulot	kulot	ADJ	_	_	15	amod	_	_
+13-14	niyang	_	_	_	_	_	_	_	_
+13	niya	siya	PRON	_	_	15	nmod	_	_
+14	-ng	na	PART	_	_	12	acl	_	_
+15	buhok	buhok	NOUN	_	_	9	nsubj	_	SpaceAfter=No
+16	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = deped-lrmds_11820_0019
+# text = Hindi ko mapigilang tignan ang kakaibang taong ito sa salamin.
+# text_en = I couldn't help but look at this strange person in the mirror.
+1	Hindi	hindi	PART	_	_	3	advmod	_	_
+2	ko	ako	PRON	_	_	3	obj	_	_
+3-4	mapigilang	_	_	_	_	_	_	_	_
+3	mapigilan	pigil	VERB	_	Voice=Pass	0	root	_	_
+4	-ng	na	PART	_	_	5	mark	_	_
+5	tignan	tingin	VERB	_	Voice=Pass	3	ccomp	_	_
+6	ang	ang	ADP	_	_	9	case	_	_
+7-8	kakaibang	_	_	_	_	_	_	_	_
+7	kakaiba	kakaiba	ADJ	_	_	9	amod	_	_
+8	-ng	na	PART	_	_	7	mark	_	_
+9-10	taong	_	_	_	_	_	_	_	_
+9	tao	tao	NOUN	_	_	5	nsubj	_	_
+10	-ng	na	PART	_	_	11	mark	_	_
+11	ito	ito	PRON	_	_	9	nmod	_	_
+12	sa	sa	ADP	_	_	13	case	_	_
+13	salamin	salamin	NOUN	_	_	5	obl	_	SpaceAfter=No
+14	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = deped-lrmds_11820_0020
+# text = Tinititigan din siya ng mga katabi niya.
+# text_en = The people beside him were also staring at him.
+1	Tinititigan	titig	VERB	_	Voice=Pass|Aspect=Imp	0	root	_	_
+2	din	din	ADV	_	_	1	advmod	_	_
+3	siya	siya	PRON	_	_	1	nsubj	_	_
+4	ng	ng	ADP	_	_	6	case	_	_
+5	mga	mga	DET	_	_	6	det	_	_
+6	katabi	katabi	NOUN	_	_	1	obj	_	_
+7	niya	siya	PRON	_	_	6	nmod	_	SpaceAfter=No
+8	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = deped-lrmds_11820_0021
+# text = Ngumiti siya sa mga kasakay niya sabay-labas ng limang bola mula sa kaniyang bulsa.
+# text_en = He smiled at his fellow passengers while taking out five balls from his pocket.
+1	Ngumiti	ngiti	VERB	_	Voice=Act|Aspect=Perf	0	root	_	_
+2	siya	siya	PRON	_	_	1	nsubj	_	_
+3	sa	sa	ADP	_	_	5	case	_	_
+4	mga	mga	DET	_	_	5	det	_	_
+5	kasakay	sakay	NOUN	_	_	1	obl	_	_
+6	niya	siya	PRON	_	_	5	nmod	_	_
+7	sabay	sabay	SCONJ	_	_	9	mark	_	SpaceAfter=No
+8	-	-	PUNCT	_	_	7	punct	_	SpaceAfter=No
+9	labas	labas	VERB	_	_	1	advcl	_	_
+10	ng	ng	ADP	_	_	13	case	_	_
+11-12	limang	_	_	_	_	_	_	_	_
+11	lima	lima	NUM	_	_	13	nummod	_	_
+12	-ng	na	PART	_	_	11	mark	_	_
+13	bola	bola	NOUN	_	_	9	obj	_	_
+14	mula	mula	ADP	_	_	18	case	_	_
+15	sa	sa	ADP	_	_	14	fixed	_	_
+16-17	kaniyang	_	_	_	_	_	_	_	_
+16	kaniya	siya	PRON	_	_	18	nmod	_	_
+17	-ng	na	PART	_	_	16	mark	_	_
+18	bulsa	bulsa	NOUN	_	_	9	obl	_	SpaceAfter=No
+19	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = deped-lrmds_11820_0022
+# text = Isa-isa niyang itinapon ang mga bola pataas at sinalo.
+# text_en = One by one, he threw the balls upward and caught them.
+1	Isa-isa	isa	ADV	_	_	4	advmod	_	_
+2-3	niyang	_	_	_	_	_	_	_	_
+2	niya	siya	PRON	_	_	4	obj	_	_
+3	-ng	na	PART	_	_	1	mark	_	_
+4	itinapon	tapon	VERB	_	Voice=Pass|Aspect=Perf	0	root	_	_
+5	ang	ang	ADP	_	_	7	case	_	_
+6	mga	mga	DET	_	_	7	det	_	_
+7	bola	bola	NOUN	_	_	4	nsubj	_	_
+8	pataas	taas	ADV	_	_	4	advmod	_	_
+9	at	at	CCONJ	_	_	10	cc	_	_
+10	sinalo	salo	VERB	_	_	4	conj	_	SpaceAfter=No
+11	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = deped-lrmds_11820_0023
+# text = Paulit-ulit niya itong ginawa at wala ni isang bolang nahulog!
+# text_en = He did this over and over again and none of the balls fell!
+1	Paulit-ulit	ulit	ADV	_	_	5	advmod	_	_
+2	niya	siya	PRON	_	_	5	obj	_	_
+3-4	itong	_	_	_	_	_	_	_	_
+3	ito	ito	PRON	_	_	5	nsubj	_	_
+4	-ng	na	PART	_	_	1	mark	_	_
+5	ginawa	gawa	VERB	_	Voice=Pass|Aspect=Perf	0	root	_	_
+6	at	at	CCONJ	_	_	7	cc	_	_
+7	wala	wala	VERB	_	_	5	conj	_	_
+8	ni	ni	ADV	_	_	9	advmod	_	_
+9-10	isang	_	_	_	_	_	_	_	_
+9	isa	isa	NUM	_	_	11	nummod	_	_
+10	-ng	na	PART	_	_	9	mark	_	_
+11-12	bolang	_	_	_	_	_	_	_	_
+11	bola	bola	NOUN	_	_	7	obj	_	_
+12	-ng	na	PART	_	_	13	mark	_	_
+13	nahulog	hulog	VERB	_	Voice=Pass|Aspect=Perf	11	acl	_	SpaceAfter=No
+14	!	!	PUNCT	_	_	5	punct	_	_
+
+# sent_id = deped-lrmds_11820_0024
+# text = "Wow! Ang galing!" sabi ng mga kasakay at pumalakpak kaming lahat.
+# text_en = "Wow! Amazing!" said the other passengers, and we all clapped.
+1	"	"	PUNCT	_	_	2	punct	_	SpaceAfter=No
+2	Wow	wow	INTJ	_	_	0	root	_	SpaceAfter=No
+3	!	!	PUNCT	_	_	2	punct	_	_
+4	Ang	ang	ADV	_	_	5	advmod	_	_
+5	galing	galing	NOUN	_	_	2	parataxis	_	SpaceAfter=No
+6	!	!	PUNCT	_	_	5	punct	_	SpaceAfter=No
+7	"	"	PUNCT	_	_	2	punct	_	_
+8	sabi	sabi	VERB	_	_	2	parataxis	_	_
+9	ng	ng	ADP	_	_	11	case	_	_
+10	mga	mga	DET	_	_	11	det	_	_
+11	kasakay	sakay	NOUN	_	_	8	obj	_	_
+12	at	at	CCONJ	_	_	13	cc	_	_
+13	pumalakpak	palakpak	VERB	_	Voice=Act|Aspect=Perf	8	conj	_	_
+14-15	kaming	_	_	_	_	_	_	_	_
+14	kami	kami	PRON	_	_	13	nsubj	_	_
+15	-ng	na	PART	_	_	16	mark	_	_
+16	lahat	lahat	PRON	_	_	14	amod	_	SpaceAfter=No
+17	.	.	PUNCT	_	_	8	punct	_	_
+
+# sent_id = deped-lrmds_11820_0025
+# text = Pagliko namin sa isang kanto, may inilabas naman siya sa isa pa niyang bulsa.
+# text_en = When we turned at a corner, he then brought out something else from his other pocket.
+1	Pagliko	liko	ADV	_	_	8	advcl	_	_
+2	namin	kami	PRON	_	_	1	obl	_	_
+3	sa	sa	ADP	_	_	6	case	_	_
+4-5	isang	_	_	_	_	_	_	_	_
+4	isa	isa	NUM	_	_	6	nummod	_	_
+5	-ng	na	PART	_	_	4	mark	_	_
+6	kanto	kanto	NOUN	_	_	1	obl	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	1	punct	_	_
+8	may	may	VERB	_	_	0	root	_	_
+9	inilabas	labas	VERB	_	Voice=Pass|Aspect=Perf	8	obj	_	_
+10	naman	naman	ADV	_	_	9	advmod	_	_
+11	siya	siya	PRON	_	_	8	nsubj	_	_
+12	sa	sa	ADP	_	_	17	case	_	_
+13	isa	isa	NUM	_	_	17	nummod	_	_
+14	pa	pa	ADV	_	_	13	advmod	_	_
+15-16	niyang	_	_	_	_	_	_	_	_
+15	niya	siya	PRON	_	_	17	nmod	_	_
+16	-ng	na	PART	_	_	13	mark	_	_
+17	bulsa	bulsa	NOUN	_	_	8	obl	_	SpaceAfter=No
+18	.	.	PUNCT	_	_	8	punct	_	_
+
+# sent_id = deped-lrmds_11820_0026
+# text = Inilagay niya ito sa kaniyang bibig at nagsimula siyang umihip.
+# text_en = He put this to his mouth and started to blow.
+1	Inilagay	lagay	VERB	_	Voice=Pass|Aspect=Perf	0	root	_	_
+2	niya	siya	PRON	_	_	1	obj	_	_
+3	ito	ito	PRON	_	_	1	nsubj	_	_
+4	sa	sa	ADP	_	_	7	case	_	_
+5-6	kaniyang	_	_	_	_	_	_	_	_
+5	kaniya	siya	PRON	_	_	7	nmod	_	_
+6	-ng	na	PART	_	_	5	mark	_	_
+7	bibig	bibig	NOUN	_	_	1	obl	_	_
+8	at	at	CCONJ	_	_	9	cc	_	_
+9	nagsimula	simula	VERB	_	Voice=Act|Aspect=Perf	1	conj	_	_
+10-11	siyang	_	_	_	_	_	_	_	_
+10	siya	siya	PRON	_	_	9	nsubj	_	_
+11	-ng	na	PART	_	_	12	mark	_	_
+12	umihip	ihip	VERB	_	Voice=Act|Aspect=Perf	9	xcomp	_	SpaceAfter=No
+13	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = deped-lrmds_11820_0027
+# text = Makaraan ng ilang sandali naging isang mahabang lobo ito.
+# text_en = After a few moments it became a long balloon.
+1	Makaraan	daan	ADV	_	_	6	advcl	_	_
+2	ng	ng	ADP	_	_	5	case	_	_
+3-4	ilang	_	_	_	_	_	_	_	_
+3	ilan	ilan	DET	_	_	5	det	_	_
+4	-ng	na	PART	_	_	3	mark	_	_
+5	sandali	sandali	NOUN	_	_	1	obl	_	_
+6	naging	maging	VERB	_	Aspect=Perf	0	root	_	_
+7-8	isang	_	_	_	_	_	_	_	_
+7	isa	isa	NUM	_	_	11	nummod	_	_
+8	-ng	na	PART	_	_	7	mark	_	_
+9-10	mahabang	_	_	_	_	_	_	_	_
+9	mahaba	mahaba	ADJ	_	_	11	amod	_	_
+10	-ng	na	PART	_	_	9	mark	_	_
+11	lobo	lobo	NOUN	_	_	6	obj	_	_
+12	ito	ito	PRON	_	_	6	nsubj	_	SpaceAfter=No
+13	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = deped-lrmds_11820_0028
+# text = Pagkatapos, ipinilipit niya ang lobo.
+# text_en = Afterwards, he twisted the balloon.
+1	Pagkatapos	tapos	ADV	_	_	3	advmod	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	ipinilipit	pilipit	VERB	_	Voice=Pass|Aspect=Perf	0	root	_	_
+4	niya	siya	PRON	_	_	3	obj	_	_
+5	ang	ang	ADP	_	_	6	case	_	_
+6	lobo	lobo	NOUN	_	_	3	nsubj	_	SpaceAfter=No
+7	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = deped-lrmds_11820_0029
+# text = "Wow! Nagmukhang aso ang lobo!" sigaw ko.
+# text_en = "Wow! The balloon looks like a dog!" I exclaimed.
+1	"	"	PUNCT	_	_	2	punct	_	SpaceAfter=No
+2	Wow	wow	INTJ	_	_	0	root	_	SpaceAfter=No
+3	!	!	PUNCT	_	_	2	punct	_	_
+4-5	Nagmukhang	_	_	_	_	_	_	_	_
+4	Nagmukha	mukha	VERB	_	Voice=Act|Aspect=Perf	2	parataxis	_	_
+5	-ng	na	PART	_	_	6	mark	_	_
+6	aso	aso	NOUN	_	_	4	xcomp	_	_
+7	ang	ang	ADP	_	_	8	case	_	_
+8	lobo	lobo	NOUN	_	_	4	nsubj	_	SpaceAfter=No
+9	!	!	PUNCT	_	_	4	punct	_	SpaceAfter=No
+10	"	"	PUNCT	_	_	2	punct	_	_
+11	sigaw	sigaw	VERB	_	_	2	parataxis	_	_
+12	ko	ko	PRON	_	_	11	obj	_	SpaceAfter=No
+13	.	.	PUNCT	_	_	11	punct	_	_
+
+# sent_id = deped-lrmds_11820_0030
+# text = Nagpalakpakan uli ang mga pasahero ni Tatay.
+# text_en = Dad's passengers appauded once more.
+1	Nagpalakpakan	palakpak	VERB	_	Voice=Act|Aspect=Perf	0	root	_	_
+2	uli	uli	ADV	_	_	1	advmod	_	_
+3	ang	ang	ADP	_	_	5	case	_	_
+4	mga	mga	DET	_	_	5	det	_	_
+5	pasahero	pasahero	NOUN	_	_	1	nsubj	_	_
+6	ni	ni	ADP	_	_	7	case	_	_
+7	Tatay	Tatay	NOUN	_	_	5	nmod	_	SpaceAfter=No
+8	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = deped-lrmds_11820_0031
+# text = Nang malapit na kami sa plasa, may inilabas naman siyang makulay na bulaklak.
+# text_en = Once we were close to the plaza, he then brought out a colorful flower.
+1	Nang	nang	SCONJ	_	_	2	mark	_	_
+2	malapit	malapit	ADJ	_	_	8	advcl	_	_
+3	na	na	ADV	_	_	2	advmod	_	_
+4	kami	kami	PRON	_	_	2	nsubj	_	_
+5	sa	sa	ADP	_	_	6	case	_	_
+6	plasa	plasa	NOUN	_	_	2	obl	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	2	punct	_	_
+8	may	may	VERB	_	_	0	root	_	_
+9	inilabas	labas	VERB	_	Voice=Pass|Aspect=Perf	8	obj	_	_
+10	naman	naman	ADV	_	_	8	advmod	_	_
+11-12	siyang	_	_	_	_	_	_	_	_
+11	siya	siya	PRON	_	_	8	nsubj	_	_
+12	-ng	na	PART	_	_	15	mark	_	_
+13	makulay	makulay	ADJ	_	_	15	amod	_	_
+14	na	na	PART	_	_	13	mark	_	_
+15	bulaklak	bulaklak	NOUN	_	_	9	obl	_	SpaceAfter=No
+16	.	.	PUNCT	_	_	8	punct	_	_
+
+# sent_id = deped-lrmds_11820_0032
+# text = Inamoy niya ito.
+# text_en = He smelled it.
+1	Inamoy	amoy	VERB	_	Voice=Pass|Aspect=Perf	0	root	_	_
+2	niya	siya	PRON	_	_	1	obj	_	_
+3	ito	ito	PRON	_	_	1	nsubj	_	SpaceAfter=No
+4	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = deped-lrmds_11820_0033
+# text = Tila ang bango ng bulaklak dahil napapikit siya at napangiti.
+# text_id = The flower seemed so fragrant that it made him close his eyes and smile.
+1	Tila	tila	ADV	_	_	3	advmod	_	_
+2	ang	ang	ADV	_	_	3	advmod	_	_
+3	bango	bango	ADJ	_	_	0	root	_	_
+4	ng	ng	ADP	_	_	5	case	_	_
+5	bulaklak	bulaklak	NOUN	_	_	3	nsubj	_	_
+6	dahil	dahil	SCONJ	_	_	7	mark	_	_
+7	napapikit	pikit	VERB	_	Voice=Act|Aspect=Perf	3	advcl	_	_
+8	siya	siya	PRON	_	_	7	nsubj	_	_
+9	at	at	CCONJ	_	_	10	cc	_	_
+10	napangiti	ngiti	VERB	_	Voice=Act|Aspect=Perf	7	conj	_	SpaceAfter=No
+11	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = deped-lrmds_11820_0034
+# text = Sumenyas siya sa mga kapuwa pasahero niya para amuyin din nila ang hawak niyang bulaklak.
+# text_en = He signaled to his fellow passengers for them to smell the flower he was holding as well.
+1	Sumenyas	senyas	VERB	_	Voice=Act|Aspect=Perf	0	root	_	_
+2	siya	siya	PRON	_	_	1	nsubj	_	_
+3	sa	sa	ADP	_	_	6	case	_	_
+4	mga	mga	DET	_	_	6	det	_	_
+5	kapuwa	kapuwa	NOUN	_	_	6	nmod	_	_
+6	pasahero	pasahero	NOUN	_	_	1	obl	_	_
+7	niya	siya	PRON	_	_	5	nmod	_	_
+8	para	para	SCONJ	_	_	9	mark	_	_
+9	amuyin	amoy	VERB	_	Voice=Pass	1	advcl	_	_
+10	din	din	ADV	_	_	9	advmod	_	_
+11	nila	sila	PRON	_	_	9	obj	_	_
+12	ang	ang	ADP	_	_	16	case	_	_
+13	hawak	hawak	NOUN	_	_	16	nmod	_	_
+14-15	niyang	_	_	_	_	_	_	_	_
+14	niya	siya	PRON	_	_	13	nmod	_	_
+15	-ng	na	PART	_	_	13	mark	_	_
+16	bulaklak	bulaklak	NOUN	_	_	9	nsubj	_	SpaceAfter=No
+17	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = deped-lrmds_11820_0035
+# text = Inamoy nga ng aleng katabi niya ang bulaklak.
+# text_en = The woman beside him actually smelled the flower.
+1	Inamoy	amoy	VERB	_	Voice=Pass|Aspect=Perf	0	root	_	_
+2	nga	nga	ADV	_	_	1	advmod	_	_
+3	ng	ng	ADP	_	_	4	case	_	_
+4-5	aleng	_	_	_	_	_	_	_	_
+4	ale	ale	NOUN	_	_	1	obj	_	_
+5	-ng	na	PART	_	_	6	mark	_	_
+6	katabi	katabi	NOUN	_	_	4	nmod	_	_
+7	niya	siya	PRON	_	_	6	nmod	_	_
+8	ang	ang	ADP	_	_	9	case	_	_
+9	bulaklak	bulaklak	NOUN	_	_	1	nsubj	_	SpaceAfter=No
+10	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = deped-lrmds_11820_0036
+# text = Bigla na lang may lumabas na tubig sa bulaklak!
+# text_en = All of a sudden, water came out of the flower!
+1	Bigla	bigla	ADV	_	_	4	advmod	_	_
+2	na	na	ADV	_	_	1	advmod	_	_
+3	lang	lang	ADV	_	_	2	fixed	_	_
+4	may	may	VERB	_	_	0	root	_	_
+5	lumabas	labas	VERB	_	Voice=Act|Aspect=Perf	4	obj	_	_
+6	na	na	PART	_	_	7	mark	_	_
+7	tubig	tubig	NOUN	_	_	5	obl	_	_
+8	sa	sa	ADP	_	_	9	case	_	_
+9	bulaklak	bulaklak	NOUN	_	_	5	obl	_	SpaceAfter=No
+10	!	!	PUNCT	_	_	4	punct	_	_
+
+# sent_id = deped-lrmds_11820_0037
+# text = Nabasa ang mukha ng ale.
+# text_en = The woman's face got wet.
+1	Nabasa	basa	VERB	_	Voice=Pass|Aspect=Perf	0	root	_	_
+2	ang	ang	ADP	_	_	3	case	_	_
+3	mukha	mukha	NOUN	_	_	1	nsubj	_	_
+4	ng	ng	PART	_	_	5	case	_	_
+5	ale	ale	NOUN	_	_	3	nmod	_	SpaceAfter=No
+6	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = deped-lrmds_11820_0038
+# text = Pero hindi siya nagalit - napangiti pa siya!
+# text_en = But she didn't get mad - in fact, she smiled!
+1	Pero	pero	CCONJ	_	_	4	cc	_	_
+2	hindi	hindi	PART	_	_	4	advmod	_	_
+3	siya	siya	PRON	_	_	4	nsubj	_	_
+4	nagalit	galit	VERB	_	Voice=Pass|Aspect=Perf	0	root	_	_
+5	-	-	PUNCT	_	_	6	punct	_	_
+6	napangiti	ngiti	VERB	_	Voice=Pass|Aspect=Perf	4	parataxis	_	_
+7	pa	pa	ADV	_	_	6	advmod	_	_
+8	siya	siya	PRON	_	_	6	nsubj	_	SpaceAfter=No
+9	!	!	PUNCT	_	_	4	punct	_	_
+
+# sent_id = deped-lrmds_11820_0039
+# text = Tumawa nang malakas ang iba pang pasahero.
+# text_en = The other passengers laughed loudly.
+1	Tumawa	tawa	VERB	_	Voice=Act|Aspect=Perf	0	root	_	_
+2	nang	nang	PART	_	_	3	mark	_	_
+3	malakas	malakas	ADJ	_	_	1	advmod	_	_
+4	ang	ang	ADP	_	_	8	case	_	_
+5	iba	iba	ADJ	_	_	8	amod	_	_
+6-7	pang	_	_	_	_	_	_	_	_
+6	pa	pa	ADV	_	_	5	advmod	_	_
+7	-ng	na	PART	_	_	5	mark	_	_
+8	pasahero	pasahero	NOUN	_	_	1	nsubj	_	SpaceAfter=No
+9	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = deped-lrmds_11820_0040
+# text = "Para po!" sabi ng kakaibang mama.
+# text_en = "Stop, please!" said the strange man.
+1	"	"	PUNCT	_	_	2	punct	_	SpaceAfter=No
+2	Para	para	VERB	_	_	0	root	_	_
+3	po	po	PART	_	_	2	discourse	_	SpaceAfter=No
+4	!	!	PUNCT	_	_	2	punct	_	SpaceAfter=No
+5	"	"	PUNCT	_	_	2	punct	_	_
+6	sabi	sabi	VERB	_	_	2	parataxis	_	_
+7	ng	ng	ADP	_	_	10	case	_	_
+8-9	kakaibang	_	_	_	_	_	_	_	_
+8	kakaiba	kakaiba	ADJ	_	_	10	amod	_	_
+9	-ng	na	PART	_	_	8	mark	_	_
+10	mama	mama	NOUN	_	_	6	obj	_	SpaceAfter=No
+11	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = deped-lrmds_11820_0041
+# text = Inabot niya sa akin ang bayad at isang lobo.
+# text_en = He handed me the fare and one balloon.
+1	Inabot	abot	VERB	_	Voice=Pass|Aspect=Perf	0	root	_	_
+2	niya	siya	PRON	_	_	1	obj	_	_
+3	sa	sa	ADP	_	_	4	case	_	_
+4	akin	ako	PRON	_	_	1	obl	_	_
+5	ang	ang	ADP	_	_	6	case	_	_
+6	bayad	bayad	NOUN	_	_	1	nsubj	_	_
+7	at	at	CCONJ	_	_	10	cc	_	_
+8-9	isang	_	_	_	_	_	_	_	_
+8	isa	isa	NUM	_	_	10	nummod	_	_
+9	-ng	na	PART	_	_	8	mark	_	_
+10	lobo	lobo	NOUN	_	_	6	conj	_	SpaceAfter=No
+11	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = deped-lrmds_11820_0042
+# text = "Maraming salamat po!" sabi ko.
+# text_en = "Thank you very much!" I said.
+1	"	"	PUNCT	_	_	4	punct	_	SpaceAfter=No
+2-3	Maraming	_	_	_	_	_	_	_	_
+2	Marami	marami	DET	_	_	4	det	_	_
+3	-ng	na	PART	_	_	2	mark	_	_
+4	salamat	salamat	NOUN	_	_	0	root	_	_
+5	po	po	PART	_	_	4	discourse	_	SpaceAfter=No
+6	!	!	PUNCT	_	_	4	punct	_	SpaceAfter=No
+7	"	"	PUNCT	_	_	4	punct	_	_
+8	sabi	sabi	VERB	_	_	4	parataxis	_	_
+9	ko	ako	PRON	_	_	8	obj	_	SpaceAfter=No
+10	.	.	PUNCT	_	_	8	punct	_	_
+
+# sent_id = deped-lrmds_11820_0043
+# text = Tumingin ako kay Tatay na nakangiti rin.
+# text_en = I looked at Dad who was also smiling.
+1	Tumingin	tingin	VERB	_	Voice=Act|Aspect=Perf	0	root	_	_
+2	ako	ako	PRON	_	_	1	nsubj	_	_
+3	kay	kay	ADP	_	_	4	case	_	_
+4	Tatay	Tatay	NOUN	_	_	1	obl	_	_
+5	na	na	PART	_	_	6	mark	_	_
+6	nakangiti	ngiti	VERB	_	Voice=Act|Aspect=Perf	4	acl	_	_
+7	rin	din	ADV	_	_	6	advmod	_	SpaceAfter=No
+8	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = deped-lrmds_11820_0044
+# text = Nagpasalamat din si Tatay sa mama.
+# text_en = Dad also thanked the man.
+1	Nagpasalamat	pasalamat	VERB	_	Voice=Act|Aspect=Perf	0	root	_	_
+2	din	din	ADV	_	_	1	advmod	_	_
+3	si	si	ADP	_	_	4	case	_	_
+4	Tatay	Tatay	PROPN	_	_	1	nsubj	_	_
+5	sa	sa	ADP	_	_	6	case	_	_
+6	mama	mama	NOUN	_	_	1	obl	_	SpaceAfter=No
+7	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = deped-lrmds_11820_0045
+# text = Tumingin ako sa bahay na pinagbabaan niya - maraming lobo at bata.
+# text_en = I looked at the house where he got off - there were a lot of balloons and children.
+1	Tumingin	tingin	VERB	_	Voice=Act|Aspect=Perf	0	root	_	_
+2	ako	ako	PRON	_	_	1	nsubj	_	_
+3	sa	sa	ADP	_	_	4	case	_	_
+4	bahay	bahay	NOUN	_	_	1	obl	_	_
+5	na	na	PART	_	_	6	mark	_	_
+6	pinagbabaan	baba	VERB	_	Voice=Lfoc|Aspect=Perf	4	acl	_	_
+7	niya	siya	PRON	_	_	6	obj	_	_
+8	-	-	PUNCT	_	_	11	punct	_	_
+9-10	maraming	_	_	_	_	_	_	_	_
+9	marami	marami	DET	_	_	11	det	_	_
+10	-ng	na	PART	_	_	9	mark	_	_
+11	lobo	lobo	NOUN	_	_	1	parataxis	_	_
+12	at	at	CCONJ	_	_	13	cc	_	_
+13	bata	bata	NOUN	_	_	11	conj	_	SpaceAfter=No
+14	.	.	PUNCT	_	_	11	punct	_	_
+
+# sent_id = deped-lrmds_11820_0046
+# text = Mukhang may party!
+# text_en = It looks like there's a party!
+1-2	Mukhang	_	_	_	_	_	_	_	_
+1	Mukha	mukha	VERB	_	_	0	root	_	_
+2	-ng	na	PART	_	_	3	mark	_	_
+3	may	may	VERB	_	_	1	xcomp	_	_
+4	party	party	NOUN	_	_	3	obj	_	SpaceAfter=No
+5	!	!	PUNCT	_	_	1	punct	_	_
+
+# sent_id = deped-lrmds_11820_0047
+# text = Kakaiba talaga ang araw na ito!
+# text_en = This day is really strange!
+1	Kakaiba	kakaiba	ADJ	_	_	0	root	_	_
+2	talaga	talaga	ADV	_	_	1	advmod	_	_
+3	ang	ang	ADP	_	_	4	case	_	_
+4	araw	araw	NOUN	_	_	1	nsubj	_	_
+5	na	na	PART	_	_	6	acl	_	_
+6	ito	ito	PRON	_	_	4	nmod	_	SpaceAfter=No
+7	!	!	PUNCT	_	_	1	punct	_	_
+
+# sent_id = deped-lrmds_11820_0048
+# text = Parang nag-party din kami sa loob ng jeep ni Tatay dahil sa payasong pasahero namin!
+# text_en = It was as if we had our own party in Dad's jeep because of our funny passenger!
+1	Parang	parang	ADV	_	_	2	advmod	_	_
+2	nag-party	party	VERB	_	Voice=Act|Aspect=Perf	0	root	_	_
+3	din	din	ADV	_	_	2	advmod	_	_
+4	kami	kami	PRON	_	_	2	nsubj	_	_
+5	sa	sa	ADP	_	_	6	case	_	_
+6	loob	loob	NOUN	_	_	2	obl	_	_
+7	ng	ng	ADP	_	_	8	case	_	_
+8	jeep	jeep	NOUN	_	_	6	nmod	_	_
+9	ni	ni	ADP	_	_	10	case	_	_
+10	Tatay	Tatay	PROPN	_	_	8	nmod	_	_
+11	dahil	dahil	ADP	_	_	15	case	_	_
+12	sa	sa	ADP	_	_	11	fixed	_	_
+13-14	payasong	_	_	_	_	_	_	_	_
+13	payaso	payaso	ADJ	_	_	15	amod	_	_
+14	-ng	na	PART	_	_	13	mark	_	_
+15	pasahero	pasahero	NOUN	_	_	2	obl	_	_
+16	namin	kami	PRON	_	_	15	nmod	_	SpaceAfter=No
+17	!	!	PUNCT	_	_	2	punct	_	_
+
+# sent_id = deped-lrmds_11820_0049
+# text = Alamin natin ang mga anyong-tubig sa Pilipinas!
+# text_en = Let's learn about the bodies of water in the Philippines!
+1	Alamin	alam	VERB	_	Voice=Pass	0	root	_	_
+2	natin	tayo	PRON	_	_	1	obj	_	_
+3	ang	ang	ADP	_	_	5	case	_	_
+4	mga	mga	DET	_	_	5	det	_	_
+5	anyong	anyo	NOUN	_	_	1	nsubj	_	SpaceAfter=No
+6	-	-	PUNCT	_	_	7	punct	_	SpaceAfter=No
+7	tubig	tubig	NOUN	_	_	5	compound	_	_
+8	sa	sa	ADP	_	_	9	case	_	_
+9	Pilipinas	Pilipinas	PROPN	_	_	5	nmod	_	SpaceAfter=No
+10	!	!	PUNCT	_	_	1	punct	_	_
+
+# sent_id = deped-lrmds_11820_0050
+# text = Ang Pilipinas ay binubuo ng maraming isla.
+# text_en = The Philippines is composed of many islands.
+1	Ang	ang	ADP	_	_	2	case	_	_
+2	Pilipinas	Pilipinas	NOUN	_	_	4	nsubj	_	_
+3	ay	ay	PART	_	_	2	mark	_	_
+4	binubuo	buo	VERB	_	Voice=Pass|Aspect=Imp	0	root	_	_
+5	ng	ng	ADP	_	_	8	case	_	_
+6-7	maraming	_	_	_	_	_	_	_	_
+6	marami	marami	DET	_	_	8	det	_	_
+7	-ng	na	PART	_	_	6	mark	_	_
+8	isla	isla	NOUN	_	_	4	obj	_	SpaceAfter=No
+9	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = deped-lrmds_11820_0051
+# text = Ang kalupaan nito ay pinaliligiran ng maraming anyong-tubig.
+# text_en = Its land masses are surrounded by many bodies of water.
+1	Ang	ang	ADP	_	_	2	case	_	_
+2	kalupaan	kalupaan	NOUN	_	_	5	nsubj	_	_
+3	nito	ito	PRON	_	_	2	nmod	_	_
+4	ay	ay	PART	_	_	2	mark	_	_
+5	pinaliligiran	paligid	VERB	_	Voice=Pass|Aspect=Imp	0	root	_	_
+6	ng	ng	ADP	_	_	9	case	_	_
+7-8	maraming	_	_	_	_	_	_	_	_
+7	marami	marami	DET	_	_	9	det	_	_
+8	-ng	na	PART	_	_	7	mark	_	_
+9	anyong	anyo	NOUN	_	_	5	obj	_	SpaceAfter=No
+10	-	-	PUNCT	_	_	11	punct	_	SpaceAfter=No
+11	tubig	tubig	NOUN	_	_	9	compound	_	SpaceAfter=No
+12	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = deped-lrmds_11820_0052
+# text = Isa tayo sa mga bansang may pinakamahabang baybayin.
+# text_en = We're one of the countries with the longest shorelines.
+1	Isa	isa	NUM	_	_	0	root	_	_
+2	tayo	tayo	PRON	_	_	1	nsubj	_	_
+3	sa	sa	ADP	_	_	5	case	_	_
+4	mga	mga	DET	_	_	5	det	_	_
+5-6	bansang	_	_	_	_	_	_	_	_
+5	bansa	bansa	NOUN	_	_	1	nmod	_	_
+6	-ng	na	PART	_	_	7	mark	_	_
+7	may	may	VERB	_	_	5	acl	_	_
+8-9	pinakamahabang	_	_	_	_	_	_	_	_
+8	pinakamahaba	mahaba	ADJ	_	_	10	amod	_	_
+9	-ng	na	PART	_	_	8	mark	_	_
+10	baybayin	baybayin	NOUN	_	_	7	obj	_	SpaceAfter=No
+11	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = deped-lrmds_11820_0053
+# text = May malalaking anyong-tubig, mayroon ding maliliit.
+# text_en = There are large bodies of water, there are also small ones.
+1	May	may	VERB	_	_	0	root	_	_
+2-3	malalaking	_	_	_	_	_	_	_	_
+2	malalaki	malaki	ADJ	_	_	4	amod	_	_
+3	-ng	na	PART	_	_	2	mark	_	_
+4	anyong	anyo	NOUN	_	_	1	obj	_	SpaceAfter=No
+5	-	-	PUNCT	_	_	6	punct	_	SpaceAfter=No
+6	tubig	tubig	NOUN	_	_	4	compound	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	8	punct	_	_
+8	mayroon	mayroon	VERB	_	_	1	parataxis	_	_
+9-10	ding	_	_	_	_	_	_	_	_
+9	din	din	ADV	_	_	8	advmod	_	_
+10	-ng	na	PART	_	_	11	mark	_	_
+11	maliliit	maliit	ADJ	_	_	8	advmod	_	SpaceAfter=No
+12	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = deped-lrmds_11820_0054
+# text = Maraming kabutihang naidudulot ang mga anyong-tubig na ito.
+# text_en = These bodies of water bring about many good things.
+1-2	Maraming	_	_	_	_	_	_	_	_
+1	Marami	marami	DET	_	_	3	det	_	_
+2	-ng	na	PART	_	_	1	mark	_	_
+3-4	kabutihang	_	_	_	_	_	_	_	_
+3	kabutihan	kabutihan	NOUN	_	_	0	root	_	_
+4	-ng	na	PART	_	_	5	mark	_	_
+5	naidudulot	dulot	VERB	_	Voice=Pass|Aspect=Perf	3	acl	_	_
+6	ang	ang	ADP	_	_	8	case	_	_
+7	mga	mga	DET	_	_	8	det	_	_
+8	anyong	anyo	NOUN	_	_	3	nsubj	_	SpaceAfter=No
+9	-	-	PUNCT	_	_	10	punct	_	SpaceAfter=No
+10	tubig	tubig	NOUN	_	_	8	compound	_	_
+11	na	na	PART	_	_	12	mark	_	_
+12	ito	ito	PRON	_	_	8	nmod	_	SpaceAfter=No
+13	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = deped-lrmds_11820_0055
+# text = Alamin natin ang iba't ibang anyong-tubig sa Pilipinas!
+# text_en = Let's learn about the different bodies of water in the Philippines!
+1	Alamin	alam	VERB	_	Voice=Pass	0	root	_	_
+2	natin	tayo	PRON	_	_	1	obj	_	_
+3	ang	ang	ADP	_	_	8	case	_	_
+4	iba	iba	ADJ	_	_	8	amod	_	SpaceAfter=No
+5	't	at	CCONJ	_	_	6	case	_	_
+6-7	ibang	_	_	_	_	_	_	_	_
+6	iba	iba	ADJ	_	_	4	conj	_	_
+7	-ng	na	PART	_	_	4	mark	_	_
+8	anyong	anyo	NOUN	_	_	1	nsubj	_	SpaceAfter=No
+9	-	-	PUNCT	_	_	10	punct	_	SpaceAfter=No
+10	tubig	tubig	NOUN	_	_	8	compound	_	_
+11	sa	sa	ADP	_	_	12	case	_	_
+12	Pilipinas	Pilipinas	PROPN	_	_	8	nmod	_	SpaceAfter=No
+13	!	!	PUNCT	_	_	1	punct	_	_
+
+# sent_id = deped-lrmds_11820_0056
+# text = Nakakita ka na ba ng lawa na may bulkan sa gitna?
+# text_en = Have you ever seen a lake with a volcano in the middle?
+1	Nakakita	kita	VERB	_	Voice=Act|Aspect=Perf	0	root	_	_
+2	ka	ikaw	PRON	_	_	1	nsubj	_	_
+3	na	na	ADV	_	_	1	advmod	_	_
+4	ba	ba	PART	_	_	1	mark	_	_
+5	ng	ng	ADP	_	_	6	case	_	_
+6	lawa	lawa	NOUN	_	_	1	obj	_	_
+7	na	na	PART	_	_	8	mark	_	_
+8	may	may	VERB	_	_	6	acl	_	_
+9	bulkan	bulkan	NOUN	_	_	8	obj	_	_
+10	sa	sa	ADP	_	_	11	case	_	_
+11	gitna	gitna	NOUN	_	_	8	obl	_	SpaceAfter=No
+12	?	?	PUNCT	_	_	1	punct	_	_
+
+# sent_id = deped-lrmds_11820_0057
+# text = Ganito ang Lawa ng Taal sa probinsya ng Batangas.
+# text_en = This is what Taal Lake in the province of Batangas is like.
+1	Ganito	ganito	ADV	_	_	0	root	_	_
+2	ang	ang	ADP	_	_	3	case	_	_
+3	Lawa	lawa	NOUN	_	_	1	nsubj	_	_
+4	ng	ng	ADP	_	_	5	case	_	_
+5	Taal	Taal	PROPN	_	_	3	nmod	_	_
+6	sa	sa	ADP	_	_	7	case	_	_
+7	probinsya	probinsya	NOUN	_	_	3	nmod	_	_
+8	ng	ng	ADP	_	_	9	case	_	_
+9	Batangas	Batangas	PROPN	_	_	7	nmod	_	SpaceAfter=No
+10	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = deped-lrmds_11820_0058
+# text = Sa gitna ng lawa nito ay ang Bulkang Taal.
+# text_en = In the middle of this lake is Taal Volcano.
+1	Sa	sa	ADP	_	_	2	case	_	_
+2	gitna	gitna	NOUN	_	_	0	root	_	_
+3	ng	ng	ADP	_	_	4	case	_	_
+4	lawa	lawa	NOUN	_	_	2	nmod	_	_
+5	nito	ito	PRON	_	_	4	nmod	_	_
+6	ay	ay	PART	_	_	9	mark	_	_
+7	ang	ang	ADP	_	_	8	case	_	_
+8	Bulkang	bulkan	NOUN	_	_	2	nsubj	_	_
+9	Taal	Taal	PROPN	_	_	8	compound	_	SpaceAfter=No
+10	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = deped-lrmds_11820_0059
+# text = Nabuo ang lawang ito dahil sa isang pagsabog ng bulkan, ilang daang taon na ang nakaraan.
+# text_en = This lake was formed because of a volcanic explosion, several hundred years ago.
+1	Nabuo	buo	VERB	_	Voice=Pass|Aspect=Perf	0	root	_	_
+2	ang	ang	ADP	_	_	3	case	_	_
+3-4	lawang	_	_	_	_	_	_	_	_
+3	lawa	lawa	NOUN	_	_	1	nsubj	_	_
+4	-ng	na	PART	_	_	5	mark	_	_
+5	ito	ito	PRON	_	_	3	nmod	_	_
+6	dahil	dahil	ADP	_	_	10	case	_	_
+7	sa	sa	ADP	_	_	6	fixed	_	_
+8-9	isang	_	_	_	_	_	_	_	_
+8	isa	isa	ADJ	_	_	10	amod	_	_
+9	-ng	na	PART	_	_	8	mark	_	_
+10	pagsabog	sabog	NOUN	_	_	1	obl	_	_
+11	ng	ng	ADP	_	_	12	case	_	_
+12	bulkan	bulkan	NOUN	_	_	10	nmod	_	SpaceAfter=No
+13	,	,	PUNCT	_	_	18	punct	_	_
+14-15	ilang	_	_	_	_	_	_	_	_
+14	ilan	ilan	DET	_	_	18	det	_	_
+15	-ng	na	PART	_	_	14	mark	_	_
+16-17	daang	_	_	_	_	_	_	_	_
+16	daan	daan	NUM	_	_	18	nummod	_	_
+17	-ng	na	PART	_	_	16	mark	_	_
+18	taon	taon	NOUN	_	_	10	acl	_	_
+19	na	na	ADV	_	_	18	advmod	_	_
+20	ang	ang	ADP	_	_	21	case	_	_
+21	nakaraan	daan	VERB	_	Voice=Act|Aspect=Perf	18	nsubj	_	SpaceAfter=No
+22	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = deped-lrmds_11820_0060
+# text = Alam ba ninyong may isa pang lawa sa loob ng Bulkang Taal?
+# text_en = Did you know that there's another lake inside Taal Volcano?
+1	Alam	alam	VERB	_	_	0	root	_	_
+2	ba	ba	PART	_	_	1	mark	_	_
+3-4	ninyong	_	_	_	_	_	_	_	_
+3	ninyo	kayo	PRON	_	_	1	obj	_	_
+4	-ng	na	PART	_	_	5	mark	_	_
+5	may	may	VERB	_	_	1	ccomp	_	_
+6	isa	isa	NUM	_	_	9	nummod	_	_
+7-8	pang	_	_	_	_	_	_	_	_
+7	pa	pa	ADV	_	_	6	advmod	_	_
+8	-ng	na	PART	_	_	6	mark	_	_
+9	lawa	lawa	NOUN	_	_	5	obj	_	_
+10	sa	sa	ADP	_	_	11	case	_	_
+11	loob	loob	NOUN	_	_	5	obl	_	_
+12	ng	ng	ADP	_	_	13	case	_	_
+13	Bulkang	bulkan	NOUN	_	_	11	nmod	_	_
+14	Taal	Taal	PROPN	_	_	13	compound	_	SpaceAfter=No
+15	?	?	PUNCT	_	_	1	punct	_	_
+
+# sent_id = deped-lrmds_11820_0061
+# text = Pambihira talaga!
+# text_en = Truly extraordinary!
+1	Pambihira	pambihira	ADJ	_	_	0	root	_	_
+2	talaga	talaga	ADV	_	_	1	advmod	_	SpaceAfter=No
+3	!	!	PUNCT	_	_	1	punct	_	_
+
+# sent_id = deped-lrmds_11820_0062
+# text = Maraming turistang pumupunta sa Lawa ng Taal at sa Bulkang Taal.
+# text_en = There are many tourists that go to Taal Lake and to Taal Volcano.
+1-2	Maraming	_	_	_	_	_	_	_	_
+1	Marami	marami	DET	_	_	3	det	_	_
+2	-ng	na	PART	_	_	1	mark	_	_
+3-4	turistang	_	_	_	_	_	_	_	_
+3	turista	turista	NOUN	_	_	0	root	_	_
+4	-ng	na	PART	_	_	5	mark	_	_
+5	pumupunta	punta	VERB	_	Voice=Act|Aspect=Imp	3	acl	_	_
+6	sa	sa	ADP	_	_	7	case	_	_
+7	Lawa	Lawa	NOUN	_	_	5	obl	_	_
+8	ng	ng	ADP	_	_	9	case	_	_
+9	Taal	Taal	NOUN	_	_	7	nmod	_	_
+10	at	at	CCONJ	_	_	12	cc	_	_
+11	sa	sa	ADP	_	_	12	case	_	_
+12	Bulkang	bulkan	NOUN	_	_	9	conj	_	_
+13	Taal	Taal	PROPN	_	_	12	compound	_	SpaceAfter=No
+14	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = deped-lrmds_11820_0063
+# text = Sumasakay sila ng bangka patungo sa bulkan, na kanilang inaakyat.
+# text_en = They ride boats toward the volcano, which they climb.
+1	Sumasakay	sakay	VERB	_	Voice=Act|Aspect=Imp	0	root	_	_
+2	sila	sila	PRON	_	_	1	nsubj	_	_
+3	ng	ng	ADP	_	_	4	case	_	_
+4	bangka	bangka	NOUN	_	_	1	obj	_	_
+5	patungo	tungo	ADP	_	_	7	case	_	_
+6	sa	sa	ADP	_	_	5	fixed	_	_
+7	bulkan	bulkan	NOUN	_	_	1	obl	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	11	punct	_	_
+9	na	na	PART	_	_	11	mark	_	_
+10	kanilang	sila	PRON	_	_	11	nmod	_	_
+11	inaakyat	akyat	VERB	_	Voice=Pass|Aspect=Imp	7	acl	_	SpaceAfter=No
+12	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = deped-lrmds_11820_0064
+# text = Marami talaga ang nakikinabang sa lawang ito.
+# text_en = In fact, many benefit from this lake.
+1	Marami	marami	DET	_	_	0	root	_	_
+2	talaga	talaga	ADV	_	_	1	advmod	_	_
+3	ang	ang	ADP	_	_	4	case	_	_
+4	nakikinabang	kinabang	VERB	_	Voice=Pass|Aspect=Imp	1	nsubj	_	_
+5	sa	sa	ADP	_	_	6	case	_	_
+6-7	lawang	_	_	_	_	_	_	_	_
+6	lawa	lawa	NOUN	_	_	4	obl	_	_
+7	-ng	na	PART	_	_	8	mark	_	_
+8	ito	ito	PRON	_	_	6	nmod	_	SpaceAfter=No
+9	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = deped-lrmds_11820_0065
+# text = Bukod sa mga nakikinabang sa turismo, maraming nag-aalaga ng bangus at tilapia sa Lawa ng Taal.
+# text_en = Aside from those who benefit from tourism, there are many who raise bangus and tilapia in Taal Lake.
+1	Bukod	bukod	ADP	_	_	4	case	_	_
+2	sa	sa	ADP	_	_	1	fixed	_	_
+3	mga	mga	DET	_	_	4	det	_	_
+4	nakikinabang	kinabang	VERB	_	Voice=Pass|Aspect=Imp	8	obl	_	_
+5	sa	sa	ADP	_	_	6	case	_	_
+6	turismo	turismo	NOUN	_	_	4	obl	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	4	punct	_	_
+8-9	maraming	_	_	_	_	_	_	_	_
+8	marami	marami	DET	_	_	0	root	_	_
+9	ang	ang	ADP	_	_	10	case	_	_
+10	nag-aalaga	alaga	VERB	_	Voice=Act|Aspect=Imp	8	nsubj	_	_
+11	ng	ng	ADP	_	_	12	case	_	_
+12	bangus	bangus	NOUN	_	_	10	obj	_	_
+13	at	at	CCONJ	_	_	14	cc	_	_
+14	tilapia	tilapia	NOUN	_	_	12	conj	_	_
+15	sa	sa	ADP	_	_	16	case	_	_
+16	Lawa	lawa	NOUN	_	_	10	obl	_	_
+17	ng	ng	ADP	_	_	18	case	_	_
+18	Taal	Taal	PROPN	_	_	16	nmod	_	SpaceAfter=No
+19	.	.	PUNCT	_	_	8	punct	_	_
+
+# sent_id = deped-lrmds_11820_0066
+# text = Alam mo ba kung ano ang pinakamahabang ilog sa Pilipinas?
+# text_en = Do you know what the longest river in the Philippines is?
+1	Alam	alam	VERB	_	_	0	root	_	_
+2	mo	ikaw	PRON	_	_	1	obj	_	_
+3	ba	ba	PART	_	_	1	mark	_	_
+4	kung	kung	SCONJ	_	_	5	mark	_	_
+5	ano	ano	PRON	_	_	1	advcl	_	_
+6	ang	ang	ADP	_	_	9	case	_	_
+7-8	pinakamahabang	_	_	_	_	_	_	_	_
+7	pinakamahaba	mahaba	ADJ	_	_	9	amod	_	_
+8	-ng	na	PART	_	_	7	case	_	_
+9	ilog	ilog	NOUN	_	_	5	nsubj	_	_
+10	sa	sa	ADP	_	_	11	case	_	_
+11	Pilipinas	Pilipinas	PROPN	_	_	9	nmod	_	SpaceAfter=No
+12	?	?	PUNCT	_	_	1	punct	_	_
+
+# sent_id = deped-lrmds_11820_0067
+# text = Ang Cagayan River ang pinakamahaba at pinakamalaking ilog sa Pilipinas.
+# text_en = The Cagayan River is the is the longest and largest river in the Philippines.
+1	Ang	ang	ADP	_	_	3	case	_	_
+2	Cagayan	Cagayan	PROPN	_	_	3	compound	_	_
+3	River	river	NOUN	_	_	0	root	_	_
+4	ang	ang	ADP	_	_	9	case	_	_
+5	pinakamahaba	mahaba	ADJ	_	_	9	amod	_	_
+6	at	at	CCONJ	_	_	7	cc	_	_
+7-8	pinakamalaking	_	_	_	_	_	_	_	_
+7	pinakamalaki	malaki	ADJ	_	_	5	conj	_	_
+8	-ng	na	PART	_	_	5	mark	_	_
+9	ilog	ilog	NOUN	_	_	3	nsubj	_	_
+10	sa	sa	ADP	_	_	11	case	_	_
+11	Pilipinas	Pilipinas	PROPN	_	_	9	nmod	_	SpaceAfter=No
+12	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = deped-lrmds_11820_0068
+# text = Apat na probinsya ang binabaybay nito.
+# text_en = It runs through four provinces.
+1	Apat	apat	NUM	_	_	3	nummod	_	_
+2	na	na	PART	_	_	1	mark	_	_
+3	probinsya	probinsya	NOUN	_	_	0	root	_	_
+4	ang	ang	ADP	_	_	5	case	_	_
+5	binabaybay	baybay	VERB	_	Voice=Pass|Aspect=Imp	3	nsubj	_	_
+6	nito	ito	PRON	_	_	5	obj	_	SpaceAfter=No
+7	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = deped-lrmds_11820_0069
+# text = Ito ang Nueva Vizcaya, Quirino, Isabela, at Cagayan.
+# text_en = These are Nueva Vizcaya, Quirino, Isabela, and Cagayan.
+1	Ito	ito	PRON	_	_	0	root	_	_
+2	ang	ang	ADP	_	_	3	case	_	_
+3	Nueva	Nueva	PROPN	_	_	1	nsubj	_	_
+4	Vizcaya	Vizcaya	PROPN	_	_	3	flat	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	6	punct	_	_
+6	Quirino	Quirino	PROPN	_	_	3	conj	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	8	punct	_	_
+8	Isabela	Isabela	PROPN	_	_	3	conj	_	SpaceAfter=No
+9	,	,	PUNCT	_	_	11	punct	_	_
+10	at	at	CCONJ	_	_	11	cc	_	_
+11	Cagayan	Cagayan	PROPN	_	_	3	conj	_	SpaceAfter=No
+12	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = deped-lrmds_11820_0070
+# text = Ang mga probinsyang ito ay matatagpuan sa Hilagang Luzon.
+# text_en = These provinces can be found in the Northern Philippines.
+1	Ang	ang	ADP	_	_	3	case	_	_
+2	mga	mga	DET	_	_	3	det	_	_
+3-4	probinsyang	_	_	_	_	_	_	_	_
+3	probinsya	probinsya	NOUN	_	_	7	nsubj	_	_
+4	-ng	na	PART	_	_	5	mark	_	_
+5	ito	ito	PRON	_	_	3	nmod	_	_
+6	ay	ay	PART	_	_	3	mark	_	_
+7	matatagpuan	tagpo	VERB	_	Voice=Pass|Aspect=Prosp	0	root	_	_
+8	sa	sa	ADP	_	_	11	case	_	_
+9-10	Hilagang	_	_	_	_	_	_	_	_
+9	Hilaga	hilaga	ADJ	_	_	11	amod	_	_
+10	-ng	na	PART	_	_	9	mark	_	_
+11	Luzon	Luzon	PROPN	_	_	7	obl	_	SpaceAfter=No
+12	.	.	PUNCT	_	_	7	punct	_	_
+
+# sent_id = deped-lrmds_11820_0071
+# text = Dinaraanan rin ng Cagayan River ang ilang natitirang kakahuyan sa Pilipinas.
+# text_en = The Cagayan river also passes through some of the remaining forests in the Philippines.
+1	Dinaraanan	daan	VERB	_	Voice=Pass|Aspect=Imp	0	root	_	_
+2	rin	din	ADV	_	_	1	advmod	_	_
+3	ng	ng	ADP	_	_	5	case	_	_
+4	Cagayan	Cagayan	PROPN	_	_	5	compound	_	_
+5	River	river	NOUN	_	_	1	obj	_	_
+6	ang	ang	ADP	_	_	11	case	_	_
+7-8	ilang	_	_	_	_	_	_	_	_
+7	ilan	ilan	DET	_	_	11	det	_	_
+8	-ng	na	PART	_	_	7	mark	_	_
+9-10	natitirang	_	_	_	_	_	_	_	_
+9	natitira	tira	VERB	_	Voice=Pass|Aspect=Imp	11	amod	_	_
+10	-ng	na	PART	_	_	9	mark	_	_
+11	kakahuyan	kakahuyan	NOUN	_	_	1	nsubj	_	_
+12	sa	sa	ADP	_	_	13	case	_	_
+13	Pilipinas	Pilipinas	PROPN	_	_	11	nmod	_	SpaceAfter=No
+14	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = deped-lrmds_11820_0072
+# text = Binubuhay ng tubig nito ang iba't ibang uri ng halaman at hayop.
+# text_en = Its water gives life to different kinds of plants and animals.
+1	Binubuhay	buhay	VERB	_	Voice=Pass|Aspect=Imp	0	root	_	_
+2	ng	ng	ADP	_	_	3	case	_	_
+3	tubig	tubig	NOUN	_	_	1	obj	_	_
+4	nito	ito	PRON	_	_	3	nmod	_	_
+5	ang	ang	ADP	_	_	10	case	_	_
+6	iba	iba	ADJ	_	_	10	amod	_	SpaceAfter=No
+7	't	at	CCONJ	_	_	8	cc	_	_
+8-9	ibang	_	_	_	_	_	_	_	_
+8	iba	iba	ADJ	_	_	6	conj	_	_
+9	-ng	na	PART	_	_	6	mark	_	_
+10	uri	uri	NOUN	_	_	1	nsubj	_	_
+11	ng	ng	ADP	_	_	12	mark	_	_
+12	halaman	halaman	NOUN	_	_	10	nmod	_	_
+13	at	at	CCONJ	_	_	14	cc	_	_
+14	hayop	hayop	NOUN	_	_	12	conj	_	SpaceAfter=No
+15	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = deped-lrmds_11820_0073
+# text = Kabilang sa umaasa sa ilog ang ilang endangered species tulad ng Philippine Eagle.
+# text_en = Among those who depend on the river are several endangered species such as the Philippine Eagle.
+1	Kabilang	kabilang	NOUN	_	_	0	root	_	_
+2	sa	sa	ADP	_	_	3	case	_	_
+3	umaasa	asa	VERB	_	Voice=Act|Aspect=Imp	1	acl	_	_
+4	sa	sa	ADP	_	_	5	case	_	_
+5	ilog	ilog	NOUN	_	_	3	obl	_	_
+6	ang	ang	ADP	_	_	10	case	_	_
+7-8	ilang	_	_	_	_	_	_	_	_
+7	ilan	ilan	DET	_	_	10	det	_	_
+8	-ng	na	PART	_	_	7	mark	_	_
+9	endangered	endangered	ADJ	_	_	10	amod	_	_
+10	species	species	NOUN	_	_	1	nsubj	_	_
+11	tulad	tulad	ADJ	_	_	14	case	_	_
+12	ng	ng	ADP	_	_	11	fixed	_	_
+13	Philippine	Philippine	ADJ	_	_	14	amod	_	_
+14	Eagle	eagle	NOUN	_	_	10	nmod	_	SpaceAfter=No
+15	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = deped-lrmds_11820_0074
+# text = Nakakita ka na ba ng talon?
+# text_en = Have you ever seen a waterfall?
+1	Nakakita	kita	VERB	_	Voice=Act|Aspect=Perf	0	root	_	_
+2	ka	ikaw	PRON	_	_	1	nsubj	_	_
+3	na	na	ADV	_	_	1	advmod	_	_
+4	ba	ba	PART	_	_	1	mark	_	_
+5	ng	ng	ADP	_	_	6	case	_	_
+6	talon	talon	NOUN	_	_	1	obj	_	SpaceAfter=No
+7	?	?	PUNCT	_	_	1	punct	_	_
+
+# sent_id = deped-lrmds_11820_0075
+# text = Dapat mong makita ang Maria Cristina Falls sa lungsod ng Iligan sa Lanao del Norte.
+# text_en = You should see the Maria Cristina Falls in the city of Iligan in Lanao del Norte.
+1	Dapat	dapat	ADV	_	_	4	advmod	_	_
+2-3	mong	_	_	_	_	_	_	_	_
+2	mo	ikaw	PRON	_	_	4	obj	_	_
+3	-ng	na	PART	_	_	1	mark	_	_
+4	makita	kita	VERB	_	Voice=Pass	0	root	_	_
+5	ang	ang	ADP	_	_	8	case	_	_
+6	Maria	Maria	PROPN	_	_	8	compound	_	_
+7	Cristina	Cristina	PROPN	_	_	6	flat	_	_
+8	Falls	falls	NOUN	_	_	4	nsubj	_	_
+9	sa	sa	ADP	_	_	10	case	_	_
+10	lungsod	lungsod	NOUN	_	_	8	nmod	_	_
+11	ng	ng	ADP	_	_	12	case	_	_
+12	Iligan	Iligan	PROPN	_	_	10	nmod	_	_
+13	sa	sa	ADP	_	_	14	case	_	_
+14	Lanao	Lanao	PROPN	_	_	10	nmod	_	_
+15	del	del	PROPN	_	_	14	flat	_	_
+16	Norte	Norte	PROPN	_	_	14	flat	_	SpaceAfter=No
+17	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = deped-lrmds_11820_0076
+# text = Ang Maria Cristina Falls ay kilala rin bilang kambal na talon.
+# text_en = The Maria Cristina Falls is also known as the twin waterfalls.
+1	Ang	ang	ADP	_	_	4	case	_	_
+2	Maria	Maria	PROPN	_	_	4	compound	_	_
+3	Cristina	Cristina	PROPN	_	_	2	flat	_	_
+4	Falls	falls	NOUN	_	_	6	nsubj	_	_
+5	ay	ay	PART	_	_	4	mark	_	_
+6	kilala	kilala	VERB	_	_	0	root	_	_
+7	rin	din	ADV	_	_	6	advmod	_	_
+8	bilang	bilang	ADP	_	_	11	case	_	_
+9	kambal	kambal	NOUN	_	_	11	nmod	_	_
+10	na	na	PART	_	_	9	mark	_	_
+11	talon	talon	NOUN	_	_	6	obl	_	SpaceAfter=No
+12	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = deped-lrmds_11820_0077
+# text = Dahil ito sa isang malaking bato sa taas ng talon, na humahati sa daloy ng tubig.
+# text_en = This is because of a large rock at the top of the waterfall, which splits the flow of water.
+1	Dahil	dahil	ADP	_	_	8	case	_	_
+2	ito	ito	PRON	_	_	8	nsubj	_	_
+3	sa	sa	ADP	_	_	1	fixed	_	_
+4-5	isang	_	_	_	_	_	_	_	_
+4	isa	isa	NUM	_	_	8	nummod	_	_
+5	-ng	na	PART	_	_	4	mark	_	_
+6-7	malaking	_	_	_	_	_	_	_	_
+6	malaki	malaki	ADJ	_	_	8	amod	_	_
+7	-ng	na	PART	_	_	6	mark	_	_
+8	bato	bato	NOUN	_	_	0	root	_	_
+9	sa	sa	ADP	_	_	10	case	_	_
+10	taas	taas	NOUN	_	_	8	nmod	_	_
+11	ng	ng	ADP	_	_	12	case	_	_
+12	talon	talon	NOUN	_	_	10	nmod	_	SpaceAfter=No
+13	,	,	PUNCT	_	_	15	punct	_	_
+14	na	na	PART	_	_	15	mark	_	_
+15	humahati	hati	VERB	_	Voice=Act|Aspect=Imp	8	acl	_	_
+16	sa	sa	ADP	_	_	17	case	_	_
+17	daloy	daloy	NOUN	_	_	15	obl	_	_
+18	ng	ng	ADP	_	_	19	case	_	_
+19	tubig	tubig	NOUN	_	_	17	nmod	_	SpaceAfter=No
+20	.	.	PUNCT	_	_	8	punct	_	_
+
+# sent_id = deped-lrmds_11820_0078
+# text = Napakahalaga ng Maria Cristina Falls sa Mindanao.
+# text_en = The Maria Cristina Falls is highly valuable to Mindanao.
+1	Napakahalaga	mahalaga	ADJ	_	_	0	root	_	_
+2	ng	ng	ADP	_	_	5	case	_	_
+3	Maria	Maria	PROPN	_	_	5	compound	_	_
+4	Cristina	Cristina	PROPN	_	_	3	flat	_	_
+5	Falls	falls	NOUN	_	_	1	nsubj	_	_
+6	sa	sa	ADP	_	_	7	case	_	_
+7	Mindanao	Mindanao	PROPN	_	_	1	obl	_	SpaceAfter=No
+8	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = deped-lrmds_11820_0079
+# text = Ito ang pangunahing pinagmumulan ng koryente sa rehiyon.
+# text_en = It is the primary source of electricity in the region.
+1	Ito	ito	PRON	_	_	0	root	_	_
+2	ang	ang	ADP	_	_	5	case	_	_
+3-4	pangunahing	_	_	_	_	_	_	_	_
+3	pangunahin	pangunahin	ADJ	_	_	5	amod	_	_
+4	-ng	na	PART	_	_	3	mark	_	_
+5	pinagmumulan	mula	VERB	_	Voice=Lfoc|Aspect=Imp	1	nsubj	_	_
+6	ng	ng	ADP	_	_	7	case	_	_
+7	koryente	koryente	NOUN	_	_	5	nmod	_	_
+8	sa	sa	ADP	_	_	9	case	_	_
+9	rehiyon	rehiyon	NOUN	_	_	5	nmod	_	SpaceAfter=No
+10	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = deped-lrmds_11820_0080
+# text = Ang uri ng koryenteng nililikha ng talon ay tinatawag na hydroelectric power.
+# text_en = The type of electricity generated by the waterfall is called hydroelectric power.
+1	Ang	ang	ADP	_	_	2	case	_	_
+2	uri	uri	NOUN	_	_	10	nsubj	_	_
+3	ng	ng	ADP	_	_	4	case	_	_
+4-5	koryenteng	_	_	_	_	_	_	_	_
+4	koryente	koryente	NOUN	_	_	2	nmod	_	_
+5	-ng	na	PART	_	_	6	mark	_	_
+6	nililikha	likha	VERB	_	Voice=Pass|Aspect=Imp	4	acl	_	_
+7	ng	ng	ADP	_	_	8	case	_	_
+8	talon	talon	NOUN	_	_	6	obj	_	_
+9	ay	ay	PART	_	_	2	mark	_	_
+10	tinatawag	tawag	VERB	_	_	0	root	_	_
+11	na	na	PART	_	_	13	mark	_	_
+12	hydroelectric	hydroelectric	ADJ	_	_	13	amod	_	_
+13	power	power	NOUN	_	_	10	obl	_	SpaceAfter=No
+14	.	.	PUNCT	_	_	10	punct	_	_
+
+# sent_id = deped-lrmds_11820_0081
+# text = Alam mo ba kung ano ang bukal?
+# text_en = Do you know what a spring is?
+1	Alam	alam	VERB	_	_	0	root	_	_
+2	mo	ikaw	PRON	_	_	1	obj	_	_
+3	ba	ba	PART	_	_	1	mark	_	_
+4	kung	kung	SCONJ	_	_	5	mark	_	_
+5	ano	ano	PRON	_	_	1	advcl	_	_
+6	ang	ang	ADP	_	_	7	case	_	_
+7	bukal	bukal	NOUN	_	_	5	nsubj	_	SpaceAfter=No
+8	?	?	PUNCT	_	_	1	punct	_	_
+
+# sent_id = deped-lrmds_11820_0082
+# text = Ito ang pinakamaliit na anyong-tubig.
+# text_en = It's the smallest body of water.
+1	Ito	ito	PRON	_	_	0	root	_	_
+2	ang	ang	ADP	_	_	5	case	_	_
+3	pinakamaliit	maliit	ADJ	_	_	5	amod	_	_
+4	na	na	PART	_	_	3	mark	_	_
+5	anyong	anyo	NOUN	_	_	1	nsubj	_	SpaceAfter=No
+6	-	-	PUNCT	_	_	7	punct	_	SpaceAfter=No
+7	tubig	tubig	NOUN	_	_	5	compound	_	SpaceAfter=No
+8	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = deped-lrmds_11820_0083
+# text = Mula sa ilalim ng lupa ang tubig ng bukal.
+# text_en = A spring's water comes from underground.
+1	Mula	mula	ADP	_	_	3	case	_	_
+2	sa	sa	ADP	_	_	1	fixed	_	_
+3	ilalim	ilalim	NOUN	_	_	0	root	_	_
+4	ng	ng	ADP	_	_	5	case	_	_
+5	lupa	lupa	NOUN	_	_	3	nmod	_	_
+6	ang	ang	ADP	_	_	7	case	_	_
+7	tubig	tubig	NOUN	_	_	3	nsubj	_	_
+8	ng	ng	ADP	_	_	9	case	_	_
+9	bukal	bukal	NOUN	_	_	7	nmod	_	SpaceAfter=No
+10	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = deped-lrmds_11820_0084
+# text = May mga bukal na mainit ang tubig!
+# text_en = There are springs whose water is hot!
+1	May	may	VERB	_	_	0	root	_	_
+2	mga	mga	DET	_	_	3	det	_	_
+3	bukal	bukal	NOUN	_	_	1	obj	_	_
+4	na	na	PART	_	_	5	mark	_	_
+5	mainit	mainit	ADJ	_	_	3	acl	_	_
+6	ang	ang	ADP	_	_	7	case	_	_
+7	tubig	tubig	NOUN	_	_	5	nsubj	_	SpaceAfter=No
+8	!	!	PUNCT	_	_	1	punct	_	_
+
+# sent_id = deped-lrmds_11820_0085
+# text = Karaniwan ito sa mga bukal na malapit sa maiinit na bato sa ilalim ng lupa.
+# text_en = This is common for springs located near hot rocks underground.
+1	Karaniwan	karaniwan	ADJ	_	_	0	root	_	_
+2	ito	ito	PRON	_	_	1	nsubj	_	_
+3	sa	sa	ADP	_	_	5	case	_	_
+4	mga	mga	DET	_	_	5	det	_	_
+5	bukal	bukal	NOUN	_	_	1	obl	_	_
+6	na	na	PART	_	_	11	mark	_	_
+7	malapit	malapit	ADJ	_	_	11	case	_	_
+8	sa	sa	ADP	_	_	7	fixed	_	_
+9	maiinit	mainit	ADJ	_	_	11	amod	_	_
+10	na	na	PART	_	_	9	mark	_	_
+11	bato	bato	NOUN	_	_	5	nmod	_	_
+12	sa	sa	ADP	_	_	13	case	_	_
+13	ilalim	ilalim	NOUN	_	_	11	nmod	_	_
+14	ng	ng	ADP	_	_	15	case	_	_
+15	lupa	lupa	NOUN	_	_	13	nmod	_	SpaceAfter=No
+16	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = deped-lrmds_11820_0086
+# text = Isa sa kilalang bukal ay ang Tiwi Hot Springs sa Bikol.
+# text_en = One of the well-known springs is the Tiwi Hot Springs in Bicol.
+1	Isa	isa	NUM	_	_	0	root	_	_
+2	sa	sa	ADP	_	_	5	case	_	_
+3-4	kilalang	_	_	_	_	_	_	_	_
+3	kilala	kilala	ADJ	_	_	5	amod	_	_
+4	-ng	na	PART	_	_	3	mark	_	_
+5	bukal	bukal	NOUN	_	_	1	nmod	_	_
+6	ay	ay	PART	_	_	10	mark	_	_
+7	ang	ang	ADP	_	_	10	case	_	_
+8	Tiwi	Tiwi	PROPN	_	_	10	compound	_	_
+9	Hot	hot	ADJ	_	_	10	amod	_	_
+10	Springs	spring	NOUN	_	_	1	nsubj	_	_
+11	sa	sa	ADP	_	_	12	case	_	_
+12	Bikol	Bikol	NOUN	_	_	10	nmod	_	SpaceAfter=No
+13	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = deped-lrmds_11820_0087
+# text = Matatagpuan ito malapit sa Bulkang Mayon.
+# text_en = This can be found near Mayon Volcano.
+1	Matatagpuan	tagpo	VERB	_	Voice=Pass|Aspect=Prosp	0	root	_	_
+2	ito	ito	PRON	_	_	1	nsubj	_	_
+3	malapit	malapit	ADJ	_	_	5	case	_	_
+4	sa	sa	ADP	_	_	3	fixed	_	_
+5	Bulkang	bulkan	NOUN	_	_	1	obl	_	_
+6	Mayon	Mayon	PROPN	_	_	5	compound	_	SpaceAfter=No
+7	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = deped-lrmds_11820_0088
+# text = Maraming pumupunta sa Tiwi Hot Springs dahil nakagagaling daw ng sakit ng kalamnan ang maglublob sa mainit nitong tubig.
+# text_en = Many go to the Tiwi Hot Springs because it is said that bathing in its hot waters can heal muscle pains.
+1-2	Maraming	_	_	_	_	_	_	_	_
+1	Marami	marami	DET	_	_	0	root	_	_
+2	ang	ang	ADP	_	_	3	case	_	_
+3	pumupunta	punta	VERB	_	Voice=Act|Aspect=Imp	1	nsubj	_	_
+4	sa	sa	ADP	_	_	7	case	_	_
+5	Tiwi	Tiwi	PROPN	_	_	7	compound	_	_
+6	Hot	hot	ADJ	_	_	7	amod	_	_
+7	Springs	spring	NOUN	_	_	3	obl	_	_
+8	dahil	dahil	SCONJ	_	_	9	mark	_	_
+9	nakagagaling	galing	VERB	_	Voice=Act|Aspect=Imp	1	advcl	_	_
+10	daw	daw	ADV	_	_	9	advmod	_	_
+11	ng	ng	ADP	_	_	12	case	_	_
+12	sakit	sakit	NOUN	_	_	9	obj	_	_
+13	ng	ng	ADP	_	_	14	case	_	_
+14	kalamnan	kalamnan	NOUN	_	_	12	nmod	_	_
+15	ang	ang	ADP	_	_	16	case	_	_
+16	maglublob	lublob	VERB	_	Voice=Act	9	nsubj	_	_
+17	sa	sa	ADP	_	_	21	case	_	_
+18	mainit	mainit	ADJ	_	_	21	amod	_	_
+19-20	nitong	_	_	_	_	_	_	_	_
+19	nito	ito	PRON	_	_	21	nmod	_	_
+20	-ng	na	PART	_	_	18	mark	_	_
+21	tubig	tubig	NOUN	_	_	16	obl	_	SpaceAfter=No
+22	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = deped-lrmds_11820_0089
+# text = Ang paglabas ng mainit na tubig na ito mula sa lupa ay pinagmumulan din ng koryente.
+# text_en = The outflow of this hot water from the ground is another source of electricity.
+1	Ang	ang	ADP	_	_	2	case	_	_
+2	paglabas	paglabas	NOUN	_	_	13	nsubj	_	_
+3	ng	ng	ADP	_	_	6	case	_	_
+4	mainit	mainit	ADJ	_	_	6	amod	_	_
+5	na	na	PART	_	_	4	mark	_	_
+6	tubig	tubig	NOUN	_	_	2	nmod	_	_
+7	na	na	PART	_	_	8	mark	_	_
+8	ito	ito	PRON	_	_	6	nmod	_	_
+9	mula	mula	ADP	_	_	11	case	_	_
+10	sa	sa	ADP	_	_	9	fixed	_	_
+11	lupa	lupa	NOUN	_	_	2	nmod	_	_
+12	ay	ay	PART	_	_	2	mark	_	_
+13	pinagmumulan	mula	VERB	_	Voice=Lfoc|Aspect=Imp	0	root	_	_
+14	din	din	ADV	_	_	13	advmod	_	_
+15	ng	ng	ADP	_	_	16	case	_	_
+16	koryente	koryente	NOUN	_	_	13	obj	_	SpaceAfter=No
+17	.	.	PUNCT	_	_	13	punct	_	_
+
+# sent_id = deped-lrmds_11820_0090
+# text = Geothermal power ang tawag sa uri ng koryenteng ito.
+# text_en = This type of electricity is called geothermal power.
+1	Geothermal	geothermal	ADJ	_	_	2	amod	_	_
+2	power	power	NOUN	_	_	0	root	_	_
+3	ang	ang	ADP	_	_	4	case	_	_
+4	tawag	tawag	NOUN	_	_	2	nsubj	_	_
+5	sa	sa	ADP	_	_	6	case	_	_
+6	uri	uri	NOUN	_	_	4	nmod	_	_
+7	ng	ng	ADP	_	_	8	case	_	_
+8-9	koryenteng	_	_	_	_	_	_	_	_
+8	koryente	koryente	NOUN	_	_	6	nmod	_	_
+9	-ng	na	PART	_	_	10	mark	_	_
+10	ito	ito	PRON	_	_	8	nmod	_	SpaceAfter=No
+11	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = deped-lrmds_11820_0091
+# text = Ang koryenteng ito ay hinango sa init mula sa ilalim ng lupa.
+# text_en = This electricity is made using the heat from underground.
+1	Ang	ang	ADP	_	_	2	case	_	_
+2-3	koryenteng	_	_	_	_	_	_	_	_
+2	koryente	koryente	NOUN	_	_	6	nsubj	_	_
+3	-ng	na	PART	_	_	4	mark	_	_
+4	ito	ito	PRON	_	_	2	nmod	_	_
+5	ay	ay	PART	_	_	2	mark	_	_
+6	hinango	hango	VERB	_	Voice=Pass|Aspect=Perf	0	root	_	_
+7	sa	sa	ADP	_	_	8	case	_	_
+8	init	init	NOUN	_	_	6	obl	_	_
+9	mula	mula	ADP	_	_	11	case	_	_
+10	sa	sa	ADP	_	_	9	fixed	_	_
+11	ilalim	ilalim	NOUN	_	_	8	nmod	_	_
+12	ng	ng	ADP	_	_	13	case	_	_
+13	lupa	lupa	NOUN	_	_	11	nmod	_	SpaceAfter=No
+14	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = deped-lrmds_11820_0092
+# text = Pambihira talaga ang mga anyong-tubig sa Pilipinas!
+# text_en = The bodies of water in the Philippines really are extraordinary!
+1	Pambihira	pambihira	ADJ	_	_	0	root	_	_
+2	talaga	talaga	ADV	_	_	1	advmod	_	_
+3	ang	ang	ADP	_	_	5	case	_	_
+4	mga	mga	DET	_	_	5	det	_	_
+5	anyong	anyo	NOUN	_	_	1	nsubj	_	SpaceAfter=No
+6	-	-	PUNCT	_	_	7	punct	_	SpaceAfter=No
+7	tubig	tubig	NOUN	_	_	5	compound	_	_
+8	sa	sa	ADP	_	_	9	case	_	_
+9	Pilipinas	Pilipinas	PROPN	_	_	5	nmod	_	SpaceAfter=No
+10	!	!	PUNCT	_	_	1	punct	_	_
+
+# sent_id = deped-lrmds_11820_0093
+# text = Kapaki-pakinabang pa ang bawat isa.
+# text_en = Each one is also beneficial.
+1	Kapaki-pakinabang	pakinabang	ADJ	_	_	0	root	_	_
+2	pa	pa	ADV	_	_	1	advmod	_	_
+3	ang	ang	ADP	_	_	5	case	_	_
+4	bawat	bawat	DET	_	_	5	det	_	_
+5	isa	isa	NUM	_	_	1	nsubj	_	SpaceAfter=No
+6	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = deped-lrmds_11820_0094
+# text = Anong mga anyong tubig ang matatagpuan sa inyong lugar?
+# text_en = What bodies of water can be found where you live?
+1-2	Anong	_	_	_	_	_	_	_	_
+1	Ano	ano	PRON	_	_	0	root	_	_
+2	-ng	na	PART	_	_	4	mark	_	_
+3	mga	mga	DET	_	_	4	det	_	_
+4	anyong	anyo	NOUN	_	_	1	nmod	_	_
+5	tubig	tubig	NOUN	_	_	4	compound	_	_
+6	ang	ang	ADP	_	_	7	case	_	_
+7	matatagpuan	tagpo	VERB	_	Voice=Pass|Aspect=Prosp	1	nsubj	_	_
+8	sa	sa	ADP	_	_	11	case	_	_
+9-10	inyong	_	_	_	_	_	_	_	_
+9	inyo	kayo	PRON	_	_	11	nmod	_	_
+10	-ng	na	PART	_	_	9	mark	_	_
+11	lugar	lugar	NOUN	_	_	7	obl	_	SpaceAfter=No
+12	?	?	PUNCT	_	_	1	punct	_	_
+
